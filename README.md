@@ -35,10 +35,16 @@ Feito com arte personalizada e controles otimizados para teclado.
 | A     | Mover para esquerda |
 | S     | Mover para baixo  |
 | D     | Mover para direita |
+
+| Tecla | Ação              |
+|-------|-------------------|
 | ⬆     | Mover para cima   |
-| ⬅     | Mover para esquerda |
+| ⬅    | Mover para esquerda |
 | ⬇     | Mover para baixo  |
-| ⮕     | Mover para direita |
+| ⮕    | Mover para direita |
+
+| Tecla | Ação              |
+|-------|-------------------|
 | Mouse | Mira e atira      |
 | Clique esquerdo | Disparo |
 
@@ -55,5 +61,22 @@ Feito com arte personalizada e controles otimizados para teclado.
 3. Divirta-se eliminando os inimigos!
 
 ## Imagens
+
+*Início do Game*
+![Início do Jogo](prints/startGame.png)
+
+*Durante o Game*
+![Durante o Jogo](prints/inGame.png)
+
+*GameOver*
+![GameOver](prints/gameOver.png)
+
+*Planilha de Eventos*
+![EventSheet1](prints/event-sheet1.png)
+![EventSheet2](prints/event-sheet2.png)
+
+*Banco de Dados*
+![EventSheet1](prints/db.png)
+
 
 
