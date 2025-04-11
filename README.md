@@ -56,7 +56,7 @@ Feito com arte personalizada e controles otimizados para teclado.
 
 ## 📦 Como jogar
 
-1. Abra o jogo no *Link*(https://game-shooter-construct3-hq04gh95u.vercel.app/)
+1. Abra o jogo no *Link*(https://game-shooter-construct3.vercel.app/)
 2. Divirta-se eliminando os inimigos!
 
 ## Imagens
