@@ -56,9 +56,8 @@ Feito com arte personalizada e controles otimizados para teclado.
 
 ## 📦 Como jogar
 
-1. Abra o projeto no [Construct 3](https://editor.construct.net/)
-2. Clique em **Run Layout** (F5)
-3. Divirta-se eliminando os inimigos!
+1. Abra o jogo no *Link*(https://game-shooter-construct3-hq04gh95u.vercel.app/)
+2. Divirta-se eliminando os inimigos!
 
 ## Imagens
 
